@@ -26,6 +26,7 @@ public class Main {
         System.out.println("Char: " + charVar);
         System.out.println("Boolean: " + boolVar);
         System.out.println("String: " + str);
+        System.out.println("String: " + str);
 
     }
 }
