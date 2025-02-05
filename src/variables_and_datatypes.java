@@ -24,8 +24,9 @@ public class variables_and_datatypes {
         System.out.println("Double: " + doubleVar);
         System.out.println("Char: " + charVar);
         System.out.println("Boolean: " + boolVar);
+        System.out.println("Boolean: " + boolVar);
         System.out.println("String: " + str);
-        System.out.println("String: " + str);
+
 
     }
 }
