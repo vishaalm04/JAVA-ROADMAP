@@ -1,8 +1,5 @@
 package Encapsulation;
-
-
-
-    public class Person {
+ public class Person {
         // Private variables (encapsulation)
         private String name;
         private int age;
