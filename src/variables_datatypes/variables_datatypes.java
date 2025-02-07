@@ -1,5 +1,6 @@
+package variables_datatypes;
 
-public class variables_and_datatypes {
+public class variables_datatypes {
     public static void main(String[] args) {
         byte byteVar = 127;
         short shortVar = 32000;
